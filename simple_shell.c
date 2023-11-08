@@ -9,7 +9,7 @@ int main(void)
 {
 	char str[1024];
 	size_t flag = 1;
-	
+
 	for (; true; )
 	{
 		if (isatty(0))
